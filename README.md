@@ -1,4 +1,4 @@
-<p align="center"><img src="My notes.png" /></p>
+<p align="center"><img src="My notes.PNG" /></p>
 
 <h1 align="center">My Notes</h1>
 
